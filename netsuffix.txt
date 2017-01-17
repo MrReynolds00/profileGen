@@ -1,0 +1,10 @@
+.com
+.co.uk
+.uk
+.net
+.org
+.gov.uk
+.gov.com
+.edu.uk
+.ac.uk
+.org.uk
